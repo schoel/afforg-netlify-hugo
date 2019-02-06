@@ -1,7 +1,7 @@
 ---
 title: Our Services
-type: services
-page: /services.html
+type: products
+page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
