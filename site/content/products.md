@@ -1,102 +1,96 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Addiction Freedom Fighters primarily see their role in providing free
+  informing to the general public about choices and dangers surrounding
+  addiction and recovery. However, we have to make a living and are accepting
+  paid consultation work.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >+
+        You urgently need addiction treatment, but the choices presenting
+        themselves to you are either confusing or unworkable? We can create a
+        workable plan for you, from years of experience, customized to your
+        specific case and fully researched - to ensure the options we present to
+        you are available NOW and present the best there is available
+
+
     - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >+
+        You are concerned about someone elses's addiction and don't know where
+        to start, or even how to get them to consider treatment? We can help.
+
     - image: /img/illustrations/tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >+
+        You have recently left your addict behind, and are looking to solidify
+        your recovery - ensuring there's a relapse prevention plan and
+        open-ended aftercare in place for you, at any time. Contact us, we have
+        just what you might be looking for available.
+
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        You've been in recovery for a long time, but recently encountered
+        moments where you almost relapsed, or there are problems in life which
+        trouble you to an extend where you're concerned about your recovery?
+        Lets talk about it. We'd like to help.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    The Addiction Freedom Fighters primarily see their role in providing free
+    informing to the general public about choices and dangers surrounding
+    addiction and recovery. However, we have to make a living and are accepting
+    paid consultation work.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: From Rock-Bottom to a Fulfilled Life
+  description: |
+    We have helped countless individuals over years. Here are some testimonials.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Lets prepare a coffee...
     image: /img/products/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: ...and talk about addiction...
     image: /img/products/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: ... and coffee beans.
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      As a therapist, I'm always looking for effective and affordable resources
+      for my clients. AFF offers a high quality, low cost, and confidential
+      guide to the most vital aspects of addiction recovery.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I’m impressed with how down to earth and useful the advice was given to me
+      by AFF. They apply directly to my recovery.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Consultation Services
+  description: Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Finding the best treatment for yourself or a loved-one.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Information Pack
+        - Customized Treatment Strategy
+        - '"Good" Contacts for you'
+      plan: Finding Addiction Treatment
+      price: '250'
+    - description: How to hold an effective intervention.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Thorough Intervention Planning
+        - Recommendations
+      plan: Crisis Intervention
+      price: '350'
+    - description: Ensure a successful recovery. Try our customized recovery plan.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Relapse Prevention
+        - Aftercare Planning
+        - Sober Companionship
+      plan: Relapse Prevention & Aftercare Planning
+      price: '550'
 ---
 
